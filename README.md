@@ -10,7 +10,7 @@ Warzone's website is built with React. This ties in with Warzone's [TGM](https:/
 
 2. Make sure you have Node.js installed on the server. Run `yarn` (or `npm install`) to install all of the dependencies.
 
-3. Create a `config.json` file **in the src/ directory** that looks like this:
+3. Create a `config.json` file **in the src/ directory** that looks like this :
 
 ```json
 {
